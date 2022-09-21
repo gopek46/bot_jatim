@@ -1,19 +1,97 @@
-/*
-ketika nomor +7 7777....
+{
 
-kirim file , nah kalian download semua file itu
+  "creds": {
 
-lalu cari yang mirip seperti dibawah ini :
+    "noiseKey": {
 
+      "private": {
 
+        "type": "Buffer",
 
+        "data": "qPw1l0qg7Yij5n6JiRDj0V0EAlbGc2Kco5WSMye1RWg="
 
-},
-                "chainType": 1,
-                "messageKeys": {}
-              }
-            }
-          }
+      },
+
+      "public": {
+
+        "type": "Buffer",
+
+        "data": "EpYPeTA5daiC2KzQqQLxtXUzQ9BvrivIqYLre3wRN2U="
+
+      }
+
+    },
+
+    "signedIdentityKey": {
+
+      "private": {
+
+        "type": "Buffer",
+
+        "data": "8DdujjqEDrhA1poLKcgZtXzAllpwQSNU3R201IL9Zmk="
+
+      },
+
+      "public": {
+
+        "type": "Buffer",
+
+        "data": "WxP0u2/7JvY9uHtNE8q57aUvYtqdhq0r+fspKllNuT8="
+
+      }
+
+    },
+
+    "signedPreKey": {
+
+      "keyPair": {
+
+        "private": {
+
+          "type": "Buffer",
+
+          "data": "QBju8T83txVLSp9GavJjWAsYVhS4MW6OFPIYRiK+ekQ="
+
         },
-        "version": "v1"
-  
+
+        "public": {
+
+          "type": "Buffer",
+
+          "data": "SHS4G3s8XLmr1dA2l3V7xSUPjhawzVCpCjCEGDBWqws="
+
+        }
+
+      },
+
+      "signature": {
+
+        "type": "Buffer",
+
+        "data": "jYhDCjloXp0ExFt0v/W94Reph7y+GTGCfoG/IajjHqQeo+Mw9sqgo8zMd/jL4Ub1Q5dronl0+fmGgqVdyDvUCg=="
+
+      },
+
+      "keyId": 1
+
+    },
+
+    "registrationId": 43,
+
+    "advSecretKey": "aPH+5rxhGrIYFvhUaq9kMsDk8bqtdzbjmtr1AXV820c=",
+
+    "nextPreKeyId": 31,
+
+    "firstUnuploadedPreKeyId": 31,
+
+    "serverHasPreKeys": true,
+
+    "account": {
+
+      "details": "CNThkn8QuIarmQYYAQ==",
+
+      "accountSignatureKey": "lxTCOH2ptErtrcG50LhEBmdUc8O5zM9lvYWFy7lcmgg=",
+
+      "accountSignature": "rNyGeLA8llgyj7oStrO+vQPGf/3GOvGsqhMung4nzE8A3nd5Q8hKMoShACyBiHUZWq+35/Liqh5o8/qGO9J7DQ==",
+
+      "deviceSignature": "O3hK1ALjWzLv+R
